@@ -1,0 +1,80 @@
+.logo{
+    width: 100px;
+}
+.logo1{
+    width: 50px;
+}
+.navbar-nav{
+    margin-left: 750px;
+}
+.img-car{
+    width: 100%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.project-intro{
+    margin: auto;
+    padding-left: 100px;
+}
+.card{
+    border-radius: 20px;
+}
+.btn-edit{
+    border-radius: 20px;
+    padding: 8px 20px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+.head-kat{
+    margin-top: 40px;
+}
+.h5-edit{
+    color: #828282;
+}
+.text-edit{
+    padding: 0px 25px;
+}
+.marketplace a{
+    text-decoration: none;
+    padding: 0px 15px;
+    color: #828282;
+}
+.h2-edit{
+    color: #444444;
+}
+.MoreInfo{
+    margin-top: 150px;
+    margin-bottom: 120px;
+}
+@media only screen and (max-width: 600px) {
+    .navbar-nav{
+        margin-left: 0px;
+    } 
+    .project-intro{
+        margin: auto;
+        padding: 0px 20px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .img-car{
+        width: 100%;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+        margin-bottom: 20px;
+    }
+    body{
+        background-color:     #f4f4f8;
+    }
+    .medsos{
+        margin-bottom: 35px;
+    }
+    .marketplace{
+        margin-bottom: 35px;
+    }
+    .MoreInfo{
+        margin-top: 80px;
+        margin-bottom: 50px;
+    }
+}
